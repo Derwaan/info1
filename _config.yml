@@ -6,7 +6,7 @@
 name: INFO 1
 
 # Short bio or description (displayed in the header)
-description:
+description: Un blog pour partager des techniques et des astuces
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github:
+  github: derwaan/info1
   instagram:
   linkedin:
   pinterest:
